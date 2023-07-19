@@ -10,4 +10,4 @@
 [![](https://visitcount.itsvg.in/api?id=melih-akman&label=Profile%20Views&icon=5&pretty=true)](https://github.com/melih-akman)
 
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/melihakman/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link=https://www.linkedin.com/in/melihakman/)
