@@ -1,4 +1,4 @@
-[![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melih-akman)](https://github.com/melih-akman)
+[![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melih-akman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/melih-akman)
 
 
 
