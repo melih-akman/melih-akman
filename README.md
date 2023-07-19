@@ -4,7 +4,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,c,java,py,arduino,stackoverflow	)](https://github.com/melih-akman)
+[![My Skills](https://skillicons.dev/icons?i=gcp,c,java,py,arduino)](https://github.com/melih-akman)
 
 
  
