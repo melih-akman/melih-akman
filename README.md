@@ -1,4 +1,6 @@
-## Github Stats
+## Stats
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f599bd5ce9f4ca588b8481?variant=dark&roadmaps=java)](https://roadmap.sh)
 
 [![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melih-akman&show_icons=true&theme=aura#gh-dark-mode-only)](https://github.com/melih-akman)
 
@@ -8,7 +10,6 @@
 
 ## Roadmap.sh
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f599bd5ce9f4ca588b8481?variant=dark&roadmaps=java)](https://roadmap.sh)
 
 ## Account
  
