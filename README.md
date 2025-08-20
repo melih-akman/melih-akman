@@ -1,9 +1,3 @@
-## Github Stats
-
-[![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=melih-akman&show_icons=true&theme=aura#gh-dark-mode-only)](https://github.com/melih-akman)
-
-
-
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,c,java,py,arduino)](https://github.com/melih-akman)
